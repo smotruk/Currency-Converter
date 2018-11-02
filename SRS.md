@@ -9,9 +9,15 @@
 
 "Converber" - не просто программное обеспечение для конвертации валюты. Конвертер имеет встроенный калькулятор. Конвертация валюты - одно лишь из более чем 53 действия в категории преобразования.
 
+![](https://github.com/smotruk/Currency-Converter/blob/master/Mockup/currency-converter-software-for-windows-10.jpg)
+
 "Strong Currency Converter" - более продвинутое программное обеспечение, способное поддерживать преобразование нескольких валютах одновременно.
 
-"Foreign Exchange Currency Converter" - это довольно упрощенный и простой в настройках конвертер, но зато обновление курса валют автоматическое, в отличие от двух предыдущих. 
+![](https://github.com/smotruk/Currency-Converter/blob/master/Mockup/currency-converter-software-for-windows-10%20(2).jpg)
+
+"Foreign Exchange Currency Converter" - это довольно упрощенный и простой в настройках конвертер, но зато обновление курса валют автоматическое, в отличие от двух предыдущих.
+
+![](https://github.com/smotruk/Currency-Converter/blob/master/Mockup/currency-converter-software-for-windows-10%20(3).jpg)
 
 Приложение «Currency-Converter», обладая простым и понятным любому пользователю интерфейсом, позволит пользователю узнавать актуальные курсы валют, а так же переводить сумму из одной валюты в другую.
 
