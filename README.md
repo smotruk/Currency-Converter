@@ -1,5 +1,6 @@
 # Currency-Converter
 Это небольшое и очень удобное приложение называется Currency-Converter. Его функциональность очень проста: добавляете нужные вам валютные пары к основной валюте сразу после установки – а затем можно просто ввести сумму в вашей национальной валюте и увидеть, сколько это будет стоить в долларах, в евро, в рублях.
+
 [Код](https://github.com/smotruk/Currency-Converter/blob/master/Code/konverter1/konverter1/CurrencyForm.cs)
 
 [SRC](https://github.com/smotruk/Currency-Converter/blob/master/SRS.md)
